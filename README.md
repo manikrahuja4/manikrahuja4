@@ -25,9 +25,10 @@
 I'm a **Software Engineering student** at SZABIST University and a **Fullstack Developer** who crafts elegant digital experiences by blending frontend creativity with backend logic. I'm passionate about **AI-assisted coding** and currently exploring both **React Native with Expo** and **Flutter**.
 
 - 🎓 **Education:** BS in Software Engineering @ SZABIST University.
+- 🎨 **Design:** Professional-level Graphic Designer (CorelDRAW, Illustrator, Canva) with extensive client work.
 - 💼 **Experience:** Former Web Development Intern @ **TEKGEN Technical Institute**.
 - 🚀 **Mission:** Building robust end-to-end solutions using modern frameworks.
-- 🤖 **Focus:** Leveraging AI (ChatGPT, Gemini) to accelerate development and exploring cross-platform mobile apps.
+- 🤖 **Focus:** Leveraging AI to accelerate development and exploring cross-platform mobile apps.
 
 ---
 
@@ -47,13 +48,14 @@ I'm a **Software Engineering student** at SZABIST University and a **Fullstack D
 
 <div align="center">
 
-| Frontend | Backend | Mobile & AI | Design & Tools |
+| Frontend & Web | Backend & DB | Mobile & Concepts | Graphic Design |
 | :--- | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white) |
-| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) | ![AI](https://img.shields.io/badge/-AI%20Prompting-412991?style=flat-square&logo=openai&logoColor=white) | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Gemini](https://img.shields.io/badge/-Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| | | | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![React Native](https://img.shields.io/badge/-React%20Native%20(Basics)-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-009A44?style=flat-square&logo=coreldraw&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter%20(Basics)-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) |
+| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![OOP](https://img.shields.io/badge/-OOP-000000?style=flat-square&logo=java&logoColor=white) | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![MVC](https://img.shields.io/badge/-MVC%20Architecture-grey?style=flat-square) | ![Design](https://img.shields.io/badge/-Professional%20Level-brightgreen?style=flat-square) |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![Python](https://img.shields.io/badge/-Python%20(Basics)-3776AB?style=flat-square&logo=python&logoColor=white) | ![REST API](https://img.shields.io/badge/-RESTful%20APIs-blue?style=flat-square) | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React%20(Basics)-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Java](https://img.shields.io/badge/-Java%20(Basics)-007396?style=flat-square&logo=java&logoColor=white) | | |
 
 </div>
 

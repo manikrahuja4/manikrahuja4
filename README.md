@@ -1,47 +1,140 @@
-<h1 align="center">Hi, I'm Kamran Rahuja 👋</h1>
+<div align="center">
+
+# Hi there, I'm Kamran Rahuja 👋
+### 🚀 Fullstack Developer | Software Engineering Student | AI Enthusiast
+
+<img src="https://raw.githubusercontent.com/manikrahuja4/manikrahuja4/main/kamran_github_banner_1778251180938.png" alt="Kamran Rahuja Banner" width="100%">
 
 <p align="center">
-  <b>Frontend Developer</b> passionate about creating clean, responsive, and user-focused websites using <br>
-  <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>Tailwind CSS</b>.
+  <img src="https://img.shields.io/badge/Available%20for%20Work-YES-brightgreen?style=for-the-badge" alt="Available for work">
+  <img src="https://img.shields.io/badge/Location-Pakistan-blue?style=for-the-badge" alt="Location">
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kamran-khan-rahuja-52aa14201"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:manikrahuja4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://manikrahuja4.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+</p>
+
+</div>
+
+---
+
+### 💫 About Me
+
+I'm a **Software Engineering student** at SZABIST University and a **Fullstack Developer** who crafts elegant digital experiences by blending frontend creativity with backend logic. I'm passionate about **AI-assisted coding** and currently exploring both **React Native with Expo** and **Flutter**.
+
+- 🎓 **Education:** BS in Software Engineering @ SZABIST University.
+- 💼 **Experience:** Former Web Development Intern @ **TEKGEN Technical Institute**.
+- 🚀 **Mission:** Building robust end-to-end solutions using modern frameworks.
+- 🤖 **Focus:** Leveraging AI (ChatGPT, Gemini) to accelerate development and exploring cross-platform mobile apps.
+
+---
+
+### 📊 Quick Stats
+
+<div align="center">
+
+| 📚 Learning | 🛠️ Projects | 💻 Technologies | 🏆 Awards |
+| :---: | :---: | :---: | :---: |
+| **3+ Years** | **15+ Built** | **12+ Mastered** | **4 Honors** |
+
+</div>
+
+---
+
+### 🛠️ My Tech Stack
+
+<div align="center">
+
+| Frontend | Backend | Mobile & AI | Design & Tools |
+| :--- | :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white) |
+| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) | ![AI](https://img.shields.io/badge/-AI%20Prompting-412991?style=flat-square&logo=openai&logoColor=white) | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Gemini](https://img.shields.io/badge/-Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| | | | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Preview | Description | Tech |
+| :--- | :---: | :--- | :--- |
+| **ShowroomOS** | 💻 | Desktop app for showroom management with inventory tracking & RBAC. | `Electron` `Next.js` |
+| **Crypto Visualizer** | 🔐 | Interactive tool to learn & visualize cryptographic algorithms. | `JS` `HTML` `CSS` |
+| **SoccerVerse** | ⚽ | Dynamic fan hub with player stats and interactive UI. | `Tailwind` `JS` |
+| **Movie Search** | 🎬 | Real-time discovery platform powered by OMDB API. | `API` `Tailwind` |
+| **Maverick Dresses** | 👗 | High-end e-commerce landing page with smooth animations. | `Bootstrap` `CSS` |
+
+[**Explore all projects →**](https://github.com/manikrahuja4?tab=repositories)
+
+</div>
+
+---
+
+### 📈 GitHub Activities
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manikrahuja4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikrahuja4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manikrahuja4&repo=showroomos&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ShowroomOS" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manikrahuja4&repo=Ciphers-Project&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ciphers Project" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikrahuja4&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🏆 Honors & Experience
 
-- 💻 HTML, CSS, JavaScript  
-- 🎨 Tailwind CSS  
-- 🌐 Git & GitHub  
-- 📱 Learning React Native  
+<details>
+<summary><b>Work Experience</b></summary>
+<br>
+
+- **Web Development Intern** @ TEKGEN Technical Institute (Aug 2025 – Sep 2025)
+  - Developed features for live production websites.
+  - Awarded **Best Intern** for excellence in site health management and collaboration.
+</details>
+
+<details>
+<summary><b>Education & Certifications</b></summary>
+<br>
+
+- **BS in Software Engineering** @ SZABIST University (2023 – Present)
+- **Diploma in Full-Stack Dev** @ Aptech Learning (2022 – 2023)
+</details>
+
+<details>
+<summary><b>Key Achievements</b></summary>
+<br>
+
+- 🥇 **Top Position** — Contest-AZM (2024)
+- ✨ **Excellence in Web Design** — Aptech (2023)
+- 🌍 **Global IT Competition Participant** (2023)
+</details>
 
 ---
 
-### 🚀 Projects I'm Proud Of
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <p>Got an idea? Let's bring it to life together.</p>
+  <a href="https://linkedin.com/in/kamran-khan-rahuja-52aa14201"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:manikrahuja4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-| Project | Description | Live Demo |
-|--------|-------------|------------|
-| 🥁 **Drum Kit** | Keypress-based sound interaction using JS | [View Project](https://github.com/manikrahuja4/Drum-Kit) |
-| 👔 **Maverick Dresses** | Frontend design for a school uniform seller | [View Project](https://manikrahuja4.github.io/projects/maverick-dresses/) |
-| ⚽ **SoccerVerse** | Static site to show soccer player stats and info | [View Project](https://manikrahuja4.github.io/projects/soccerverse/) |
-
-> 📌 More projects added daily as part of my **1 Project / Day Challenge**
-
----
-
-### 📈 GitHub Stats
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikrahuja4&show_icons=true&theme=tokyonight" alt="Manik's GitHub stats" />
+  <i>"Living, learning, & leveling up one day at a time."</i><br>
+  <b>Designed & Developed with ❤️ by Kamran Rahuja</b>
 </p>
-
----
-
-### 📬 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kamran-khan-rahuja-52aa14201)  
-- 🌐 [Portfolio](https://manikrahuja4.github.io/)  
-
----
-
-📢 *Currently open to internships and opportunities in frontend development!*
-

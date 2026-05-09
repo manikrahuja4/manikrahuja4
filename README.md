@@ -3,8 +3,6 @@
 # Hi there, I'm Kamran Rahuja 👋
 ### 🚀 Fullstack Developer | Software Engineering Student | AI Enthusiast
 
-<img src="https://raw.githubusercontent.com/manikrahuja4/manikrahuja4/main/kamran_github_banner_1778251180938.png" alt="Kamran Rahuja Banner" width="100%">
-
 <p align="center">
   <img src="https://img.shields.io/badge/Available%20for%20Work-YES-brightgreen?style=for-the-badge" alt="Available for work">
   <img src="https://img.shields.io/badge/Location-Pakistan-blue?style=for-the-badge" alt="Location">

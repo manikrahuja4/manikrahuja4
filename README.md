@@ -35,12 +35,23 @@ I enjoy taking an idea through the whole development process: designing the inte
 
 [Browse all repositories →](https://github.com/manikrahuja4?tab=repositories)
 
+## Freelance projects
+
+Selected client websites I've worked on:
+
+| Project | Platform |
+| --- | --- |
+| [**The Med Trio**](https://themedtrio.org/) | WordPress |
+| [**Emare Travels**](https://emaretravels.com/) | WordPress |
+| [**Desi Eats SF**](https://desieatsf.square.site/) | Square Online |
+
 ## Tools I work with
 
 | Area | Technologies |
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Bootstrap |
 | Backend | PHP, Laravel, Python, FastAPI, REST APIs |
+| Website platforms | WordPress, Square Online |
 | Data | MySQL, SQLite |
 | Mobile & offline | Capacitor, Android builds, service workers, local storage |
 | AI & workflow | faster-whisper, local transcription, Git, GitHub, AI-assisted development |

@@ -18,7 +18,7 @@ I enjoy taking an idea through the whole development process: designing the inte
 
 - **Currently building:** Reptrack, an offline workout tracker, and DecisionTrail, a local meeting transcription workspace.
 - **Interests:** full-stack development, local AI, offline-first apps, and business software.
-- **Background:** web development internship at TEKGEN Technical Institute; graphic design with CorelDRAW, Illustrator, and Canva.
+- **Background:** web development supervision and internship experience at TEKGEN Technical Institute; graphic design with CorelDRAW, Illustrator, and Canva.
 
 ## Featured projects
 
@@ -61,6 +61,7 @@ Selected client websites I've worked on:
 
 - **BS Software Engineering** — SZABIST University, 2023–present.
 - **Diploma in Full-Stack Development** — Aptech Learning, 2022–2023.
+- **Web Development Team Supervisor** — TEKGEN Technical Institute, July–September 2026. Mentored WordPress interns, reviewed implementations, and maintained three live client websites with responsive fixes and release checks.
 - **Web Development Intern** — TEKGEN Technical Institute, August–September 2025. Worked on live websites and received the Best Intern award.
 
 <details>

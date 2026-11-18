@@ -31,16 +31,17 @@ I enjoy taking an idea through the whole development process: designing the inte
 
 ### More work
 
-[ShowroomOS](https://github.com/manikrahuja4/showroomos) · [Showroom Laravel](https://github.com/manikrahuja4/Showroom-Laravel) · [Warehouse Management](https://github.com/manikrahuja4/warehouse_management) · [To-Do App](https://github.com/manikrahuja4/TodoList-App) · [Music Player](https://github.com/manikrahuja4/MusicPlayer)
+[ShowroomOS](https://github.com/manikrahuja4/showroomos) · [Warehouse Management](https://github.com/manikrahuja4/warehouse_management) · [To-Do App](https://github.com/manikrahuja4/TodoList-App) · [Music Player](https://github.com/manikrahuja4/MusicPlayer)
 
 [Browse all repositories →](https://github.com/manikrahuja4?tab=repositories)
 
 ## Freelance projects
 
-Selected client websites I've worked on:
+Selected freelance websites and applications I've worked on:
 
 | Project | Platform |
 | --- | --- |
+| [**Wassan Car Showroom**](https://github.com/manikrahuja4/Showroom-Laravel) | Laravel |
 | [**The Med Trio**](https://themedtrio.org/) | WordPress |
 | [**Emare Travels**](https://emaretravels.com/) | WordPress |
 | [**Desi Eats SF**](https://desieatsf.square.site/) | Square Online |
